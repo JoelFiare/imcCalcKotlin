@@ -7,7 +7,7 @@
     <string name="age">Edad</string>
     <string name="calculate">calcular</string>
     <string name="result">Tu Resultado</string>
-    <string name="recalculate">Re Calcular\n</string>
+    <string name="recalculate">Re Calcular</string>
     <string name="error">Error</string>
     <string name="title_bajo_peso">Bajo Peso</string>
     <string name="description_bajo_peso">Estas por debajo de lo optimo para tu peso y altura</string>
